@@ -1,0 +1,29 @@
+{
+	"1. Primitive Types": [
+		"1. Introduction",
+		"2. Additional resources",
+		"3. Primitive types",
+		"4. typeof",
+		"5. Special values: NaN",
+		"6. Special values: Negative zero",
+		"7. Sepcial values: Quiz",
+		"8. Natives"
+	],
+	"2. Coercion": [
+		"1. toString",
+		"2. toNumber",
+		"3. toBoolean"
+	],
+	"3. Implicit vs. Explicit Coercion": [
+		"1. Explicit coercion: Strings and numbers",
+		"2. Explicit coercion: Booleans",
+		"3. Implicit coercion: Strings and numbers",
+		"4. Implicit coercion: Booleans",
+		"5. Double-equal issues",
+		"6. Implicit coercion: The bad parts",
+		"7. Implicit coercion: The safe parts",
+		"8. Double vs. triple equal",
+		"9. Helpful implicit coercion",
+		"10. Coercion resources and surprises"
+	]
+}
